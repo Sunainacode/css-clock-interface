@@ -140,3 +140,19 @@ body{
     height: 220px;
     width: 220px;
 }
+#clock {
+    text-align: right;
+    background-color: rgb(151, 245, 115);
+    color: rgb(26, 25, 25);
+    /* border: 3px solid rgb(13, 14, 13); */
+    font-size: 2rem;
+    height: 30px;
+    width: 150px;
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 38.5%;
+    z-index: 1;
+    opacity: 90%;
+    border-radius: 40%;
+}
+    
